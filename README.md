@@ -1,3 +1,3 @@
-5 riddles are asked and if correct answers are given for each riddle, there will be total of 5 points
-There is an integer variable "sum", declared and initialized to "0", to hold the total points awarded after each and every riddle answered and if answered correctly, increases the value of "sum" by 1
+5 riddles are asked and if correct answers are given for each riddle, there will be total of 5 points.
+There is an integer variable "sum", declared and initialized to "0", to hold the total points awarded after each and every riddle answered and if answered correctly, increases the value of "sum" by 1.
 The string method ".equalsIgnoreCase()" is used just to make sure whatever the case of the answer of the riddle is when compared to the correct answer makes it equal to the correct answer provided both the answer entered by the user and the correct answer have corresponding letters irrespective of the cases of the letters.
